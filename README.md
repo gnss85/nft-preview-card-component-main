@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://interactive-rating-component-pr.netlify.app/)
+- Solution URL: [solution URL](https://nft-preview-card-component-pr.netlify.app/)
 
 ## My process
 
